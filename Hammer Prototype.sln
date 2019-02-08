@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hammer Prototype", "Assembly-CSharp.csproj", "{497CD4DC-1A4F-D5C4-F84A-6CCC2DDA1C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hammer Prototype", "Assembly-CSharp-Editor.csproj", "{4308C376-4DAB-8A7B-2301-E0304FBA428C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497CD4DC-1A4F-D5C4-F84A-6CCC2DDA1C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497CD4DC-1A4F-D5C4-F84A-6CCC2DDA1C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497CD4DC-1A4F-D5C4-F84A-6CCC2DDA1C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497CD4DC-1A4F-D5C4-F84A-6CCC2DDA1C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4308C376-4DAB-8A7B-2301-E0304FBA428C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4308C376-4DAB-8A7B-2301-E0304FBA428C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4308C376-4DAB-8A7B-2301-E0304FBA428C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4308C376-4DAB-8A7B-2301-E0304FBA428C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
